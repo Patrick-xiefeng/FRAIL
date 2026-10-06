@@ -1,0 +1,8 @@
+# Placeholder dependency list.
+# Exact versions will be released together with the final implementation.
+numpy
+scipy
+matplotlib
+scikit-learn
+pandas
+torch
